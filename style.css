@@ -92,7 +92,7 @@ h2 {
 .input-box input:valid~label {
     top: 1px;
     font-size: .8em;
-    background: #ffffff;
+    background: #c4aff0;
     padding: 0 6px;
     color:#fff;
 }
