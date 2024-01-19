@@ -62,7 +62,7 @@ h2 {
 
 .input-box input:focus,
 .input-box input:valid {
-    border-color: rgb(251, 255, 0);
+    border-color: #fff;
 }
 
 .input-box label {
