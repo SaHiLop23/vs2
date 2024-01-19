@@ -10,7 +10,7 @@
 <body>
     <div class="forgot-box">
         <form method ="POST">
-        <form action="#">
+        
             <h2>Sign Up</h2>
             <div class="container">
                 <div class="input-box">
