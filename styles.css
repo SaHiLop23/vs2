@@ -13,7 +13,7 @@ body {
     background-image: url('bg1.jpg');
     background-size: cover;
     background-position: center center;
-    background-color: #0a0a0a;
+    background-color: #c4aff0;
 }
 .container {
     position: relative;
@@ -34,7 +34,7 @@ body {
 }
 h2 {
     font-size: 2em;
-    color: rgb(255, 255, 0);
+    color: #c4aff0;
     text-align: center;
 }
 .input-box {
@@ -93,7 +93,7 @@ h2 {
 }
 .back-link a {
     font-size: 1em;
-    color: rgb(255, 247, 0);
+    color: #c4aff0;
     text-decoration: none;
     font-weight: 600;
 }
