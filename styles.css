@@ -55,7 +55,7 @@ h2 {
 }
 .input-box input:focus,
 .input-box input:valid {
-    border-color:#c4aff0;
+    border-color:#fff;
 }
 .input-box label {
     position: absolute;
@@ -73,7 +73,7 @@ h2 {
     font-size: .8em;
     background: #c4aff0;
     padding: 0 6px;
-    color: #c4aff0;
+    color: #fff;
 }
 .btn {
     width: 100%;
