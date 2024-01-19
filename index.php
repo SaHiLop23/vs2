@@ -12,7 +12,7 @@
     <div class="container">
         <div class="login-box">
             <h2>Login</h2>
-            <form action="POST">
+            <form method="POST">
                 <div class="input-box">
                     <input type="email" required>
                     <label>Email</label>
